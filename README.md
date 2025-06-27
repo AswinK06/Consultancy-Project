@@ -63,9 +63,8 @@ Visit http://localhost:3000 in your browser.
 
 
 
+🔮 Future Enhancements:
 
-
-🔮 Future Enhancements
 📊 Analytics Dashboard for admins
 
 📧 Email notifications
@@ -74,7 +73,8 @@ Visit http://localhost:3000 in your browser.
 
 🌐 Multilingual support
 
-🙋‍♂️ Author
-Aswin K
+🙋‍♂️ Author:
+
+ Aswin K
 🎓 BE Computer Science Engineering
 🔗 GitHub | 🌐 Portfolio | 💼 LinkedIn
